@@ -1,4 +1,4 @@
-# FastTD3-SEM: Simplicial Embeddings for Sample-Efficient Humanoid Control
+# FastTD3-SEM: Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 [![arXiv](https://img.shields.io/badge/arXiv-2510.13704-b31b1b.svg)]
@@ -74,6 +74,13 @@ Compared to the original FastTD3 implementation, we introduce:
 
 ## ⚙️ Installation
 
+Clone this repository:
+
+```bash
+git clone https://github.com/<your-username>/FastTD3-SEM.git
+cd FastTD3-SEM
+```
+
 Installation is identical to FastTD3.
 
 Please follow the setup instructions from the original repository:
@@ -96,3 +103,28 @@ python fast_td3/train.py \
     --sem_type sim_actor \
     --sem_dimension 64 \
     --seed 1
+```
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{obando_ceron2025simplicial,
+  title   = {Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents},
+  author  = {Obando-Ceron, Johan and Mayor, Walter and Lavoie, Samuel and Fujimoto, Scott and Courville, Aaron and Castro, Pablo Samuel},
+  journal = {arXiv preprint arXiv:2510.13704},
+  year    = {2025}
+}
+```
+
+And please also cite FastTD3:
+
+```bibtex
+@article{seo2025fasttd3,
+  title={Fasttd3: Simple, fast, and capable reinforcement learning for humanoid control},
+  author={Seo, Younggyo and Sferrazza, Carmelo and Geng, Haoran and Nauman, Michal and Yin, Zhao-Heng and Abbeel, Pieter},
+  journal={arXiv preprint arXiv:2505.22642},
+  year={2025}
+}
+```
