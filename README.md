@@ -1,23 +1,14 @@
-# FastTD3-SEM: Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents
+# Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
-[![arXiv](https://img.shields.io/badge/arXiv-2510.13704-b31b1b.svg)]
+This repository contains the code for the paper:  
+**"Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents"**  
+by *Johan Obando-Ceron**, *Walter Mayor**, *Samuel Lavoie*, *Scott Fujimoto*, *Aaron Courville*, and *Pablo Samuel Castro*  
 
-Official implementation of:
+★ Equal contribution
 
-"Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents"
+*Work conducted at Mila – Quebec AI Institute, Université de Montréal, NYU, and affiliated institutions.*
 
-**Authors:**  
-Johan Obando-Ceron* (Mila, Université de Montréal),  
-Walter Mayor* (Independent Researcher),  
-Samuel Lavoie (Mila, Université de Montréal),  
-Scott Fujimoto (NYU),  
-Aaron Courville (Mila, Université de Montréal, CIFAR),  
-Pablo Samuel Castro (Mila)
-
-\* Equal contribution
-
-Paper: https://arxiv.org/abs/2510.13704  
+## 📄 **[Read the Full Paper on arXiv ▶️](https://arxiv.org/pdf/2510.13704.pdf)**
 
 ---
 
