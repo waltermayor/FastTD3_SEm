@@ -6,7 +6,7 @@ by *Johan Obando-Ceron**, *Walter Mayor**, *Samuel Lavoie*, *Scott Fujimoto*, *A
 
 ★ Equal contribution
 
-*Work conducted at Mila – Quebec AI Institute, Université de Montréal, NYU, and affiliated institutions.*
+*Work conducted at Mila Quebec AI Institute and University of Montreal.*
 
 ## 📄 **[Read the Full Paper on arXiv ▶️](https://arxiv.org/pdf/2510.13704.pdf)**
 
