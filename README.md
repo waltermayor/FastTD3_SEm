@@ -111,8 +111,6 @@ If you use this code, please cite:
 }
 ```
 
-And please also cite FastTD3:
-
 ```bibtex
 @article{seo2025fasttd3,
   title={Fasttd3: Simple, fast, and capable reinforcement learning for humanoid control},
@@ -121,8 +119,6 @@ And please also cite FastTD3:
   year={2025}
 }
 ```
-
-Simplicial Embeddings paper:
 
 ```bibtex
 @article{lavoie2022simplicial,
