@@ -6,6 +6,8 @@ by *Johan Obando-Ceron**, *Walter Mayor**, *Samuel Lavoie*, *Scott Fujimoto*, *A
 
 ★ Equal contribution
 
+🎉 Accepted to ICLR 2026 (Main Conference).
+
 *Work conducted at Mila Quebec AI Institute and University of Montreal.*
 
 ## 📄 **[Read the Full Paper on arXiv ▶️](https://arxiv.org/pdf/2510.13704.pdf)**
@@ -91,9 +93,9 @@ Activate the appropriate Conda environment as described in FastTD3.
 python fast_td3/train.py \
     --env_name h1hand-walk-v0 \
     --no_compile \
-    --sem_type sim_actor \
-    --sem_dimension 64 \
-    --seed 1
+    --sim_type sim_actor \
+    --sim_dimension 64 \
+    --seed 128
 ```
 
 ## Citation
@@ -117,5 +119,16 @@ And please also cite FastTD3:
   author={Seo, Younggyo and Sferrazza, Carmelo and Geng, Haoran and Nauman, Michal and Yin, Zhao-Heng and Abbeel, Pieter},
   journal={arXiv preprint arXiv:2505.22642},
   year={2025}
+}
+```
+
+Simplicial Embeddings paper:
+
+```bibtex
+@article{lavoie2022simplicial,
+  title={Simplicial embeddings in self-supervised learning and downstream classification},
+  author={Lavoie, Samuel and Tsirigotis, Christos and Schwarzer, Max and Vani, Ankit and Noukhovitch, Michael and Kawaguchi, Kenji and Courville, Aaron},
+  journal={arXiv preprint arXiv:2204.00616},
+  year={2022}
 }
 ```
